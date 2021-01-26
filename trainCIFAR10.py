@@ -1,3 +1,8 @@
+
+#==============================================================================================
+# This is code was started at the Huawei AI Challenge at  The University of Cambridge Hackathon (HexCambridge 2021) 
+# ============================================================================
+
 import os
 import argparse
 from mindspore import context
